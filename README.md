@@ -48,7 +48,7 @@ Mentorship: Qualified instructor with an "Excellence" mark, dedicated to tutorin
 Deep Debugger: I consider solving complex coding errors and "deep debugging" to be one of my primary personal interests. 
 
 📫 Connect with me
-Linkedin:  <a href = "https://www.linkedin.com/in/dmytro-vasyanovych-52372543" target="_blank"> Dmytro Linkedin </a>  
+Linkedin:  <a href = "https://www.linkedin.com/in/dmytro-vasyanovych-52372543" rel="noopener ugc nofollow" target="_blank"> Dmytro Linkedin </a>  
 Location: Lisbon, Portugal
 
 “Lead Network Systems Engineer with 20+ years of programming experience, specialized in critical network infrastructure, IP/MPLS and VXLAN.   
