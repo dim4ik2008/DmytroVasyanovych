@@ -38,20 +38,20 @@ Alcatel-Lucent Certified Field Expert, and Huawei IP MPLS Engineering.
 
 🗣️ Languages
 
-Native/Fluent (C2): Portuguese, Ukrainian, Russian, and English.
+Native/Fluent (C2): Portuguese, Ukrainian, Russian, and English.     
 Beginner (A1): French and Japanese.
 
 ♟️ Beyond Engineering
 
-Chess Trainer: Supervisor for the UBI university chess team, leading them to multiple national-level podium finishes.
-Mentorship: Qualified instructor with an "Excellence" mark, dedicated to tutoring university-level sciences.
-Deep Debugger: I consider solving complex coding errors and "deep debugging" to be one of my primary personal interests.
+Chess Trainer: Supervisor for the UBI university chess team, leading them to multiple national-level podium finishes.  
+Mentorship: Qualified instructor with an "Excellence" mark, dedicated to tutoring university-level sciences.  
+Deep Debugger: I consider solving complex coding errors and "deep debugging" to be one of my primary personal interests. 
 
 📫 Connect with me
-Linkedin: https://www.linkedin.com/in/dmytro-vasyanovych-52372543/
+Linkedin: https://www.linkedin.com/in/dmytro-vasyanovych-52372543/   
 Location: Lisbon, Portugal
 
-“Lead Network Systems Engineer with 20+ years of programming experience, specialized in critical network infrastructure, IP/MPLS and VXLAN. 
+“Lead Network Systems Engineer with 20+ years of programming experience, specialized in critical network infrastructure, IP/MPLS and VXLAN.   
 Proven HLD/LLD author, excelling at designing high‑availability, uplink‑focused and redundancy‑centered solutions for complex networks, from national‑scale infrastructure to local data center architectures."
 
 <img src="dv.jpg" width="700" style="width: 100%;  height: auto;"/> 
