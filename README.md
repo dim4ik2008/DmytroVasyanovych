@@ -1,7 +1,7 @@
 🚀 Dmytro Vasyanovych | Lead Network System Engineer & Systems Architect
 Bridging the Gap Between Hardware, Software, and Infrastructure
 I am a Lead Network System Engineer with over 20 years of programming experience. I specialize in the architecture, optimization, and validation of large-scale communication networks and distributed systems, with a specific focus on Deisgn of critical national infrastructure, such as railway networks and high-complexity Datacenter systems.
-
+![Alt text](first.jpg)
 🛠️ Technical Toolbox
 
 Networking & Security: IP MPLS, WAN/MAN/LAN, Wi-Fi simulation, redundancy design, route optimization, traffic engineering, 
