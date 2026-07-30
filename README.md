@@ -30,10 +30,10 @@ This project resolved year-long microservice and state-machine blockers, increas
 
 🎓 Education & Certifications
 
-PhD Candidate in Computer Science – University of Beira Interior (UBI), Portugal (Focus: AI-assisted Emotion Recognition).
-MSc in Aeronautical Engineering – UBI, Portugal (Focus: Flight Dynamics, Computational Fluid Dynamics).
-BSc in Computer Science – UBI, Portugal (Focus: Programming, Networks, AI).
-Key Certifications: Automotive System Architect (VANET), Cisco Instructor (CCNA 1&2), 
+PhD Candidate in Computer Science – University of Beira Interior (UBI), Portugal (Focus: AI-assisted Emotion Recognition).  
+MSc in Aeronautical Engineering – UBI, Portugal (Focus: Flight Dynamics, Computational Fluid Dynamics).  
+BSc in Computer Science – UBI, Portugal (Focus: Programming, Networks, AI).  
+Key Certifications: Automotive System Architect (VANET), Cisco Instructor (CCNA 1&2),   
 Alcatel-Lucent Certified Field Expert, and Huawei IP MPLS Engineering.
 
 🗣️ Languages
