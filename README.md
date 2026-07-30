@@ -39,7 +39,7 @@ Alcatel-Lucent Certified Field Expert, and Huawei IP MPLS Engineering.
 🗣️ Languages
 
 Native/Fluent (C2): Portuguese, Ukrainian, Russian, and English.     
-Beginner (A1): French and Japanese.
+Beginner (A1): Spanish, French and Japanese.
 
 ♟️ Beyond Engineering
 
