@@ -20,6 +20,7 @@ National Rail Infrastructure (UAE & Saudi Arabia) 🚄
 Etihad Rail: Served as author and signatory for HLD and LLD documentation for the national optical fiber communication system. 
 I authored the WAN/MAN/LAN design for ~1500km of network and optimized the backbone,
 reduced traffic consumption bottleneck from 100Gbps to 40Gbps.
+
 Saudi Arabia Railways: Designed the entire CCN communication network architecture from the ground up, 
 reducing end-to-end latency from 20ms to 9ms and implementing dual redundant ring topologies for maximum fault tolerance.
 
