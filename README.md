@@ -1,6 +1,6 @@
 🚀 Dmytro Vasyanovych | Lead Network System Engineer & Systems Architect
 Bridging the Gap Between Hardware, Software, and Infrastructure
-I am a Lead Network System Engineer with over 20 years of programming experience. I specialize in the architecture, optimization, and validation of large-scale communication networks and distributed systems, with a specific focus on Deisgn of critical national infrastructure, such as railway networks and high-complexity Datacenter systems.
+I am a Lead Network System Engineer with over 20 years of programming experience. I specialize in the architecture, optimization, and validation of large-scale communication networks and distributed systems, with a specific focus on Design of critical national infrastructure, such as railway networks and high‑complexity data center systems.
 ![Alt text](first.jpg)
 🛠️ Technical Toolbox
 
@@ -11,14 +11,14 @@ Extensive experience in refactoring complex systems and implementing distributed
 Systems Engineering: Distributed logic, fault tolerance (dual-ring topologies), 
 zero-downtime solutions and interface alignment across multi-vendor systems.
 Emerging Tech: Artificial Intelligence (NVidia), and Embedded/Automotive systems (ECU, VANET).
-Tools: Microsfot Office, Docker, Git/SVN, Jira, Scrum/Agile, Wireshark, Huawei Alcatel Moxa NMS, and Autocad.
+Tools: Microsoft Office, Docker, Git/SVN, Jira, Scrum/Agile, Wireshark, Huawei Alcatel Moxa NMS, and Autocad.
 
 🌐 Key Professional Highlights
 National Rail Infrastructure (UAE & Saudi Arabia) 🚄
 
 Etihad Rail: Served as author and signatory for HLD and LLD documentation for the national optical fiber communication system. 
-I fathered the WAN/MAN/LAN design for ~1500km of network and optimized the backbone,
-reduce total traffic consumption bottleneck from 100Gbps to 40Gbps.
+I authored the WAN/MAN/LAN design for ~1500km of network and optimized the backbone,
+reduced traffic consumption bottleneck from 100Gbps to 40Gbps.
 Saudi Arabia Railways: Designed the entire CCN communication network architecture from the ground up, 
 reducing end-to-end latency from 20ms to 9ms and implementing dual redundant ring topologies for maximum fault tolerance.
 
