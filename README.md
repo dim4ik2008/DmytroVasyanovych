@@ -59,5 +59,5 @@ Proven HLD/LLD author, excelling at designing high‑availability, uplink‑focu
 
 <img src="ring.jpg" width="700" style="width: 100%;  height: auto;"/> 
 
-<img src="dv.jpg" width="700" style="width: 100%;  height: auto;"/> 
+<img src="dv_.jpg" width="700" style="width: 100%;  height: auto;"/> 
  
